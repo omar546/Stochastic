@@ -44,9 +44,9 @@ pip install numpy hmmlearn
 
   
 worked with me on this project : 
-Ebtssam Hassan 
-Rahma Ezzat 
-Aya Mohammed 
-Asmaa Hamdy 
-Ziad Ahmed 
+Ebtssam Hassan <br> 
+Rahma Ezzat <br> 
+Aya Mohammed <br> 
+Asmaa Hamdy <br> 
+Ziad Ahmed <br> 
 Abdelrahman salah

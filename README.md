@@ -43,7 +43,7 @@ pip install numpy hmmlearn
 - [hmmlearn documentation](https://hmmlearn.readthedocs.io/)
 
   
-worked with me on this project : <br> 
+worked on this project: <br> 
 Ebtssam Hassan <br> 
 Rahma Ezzat <br> 
 Aya Mohammed <br> 
